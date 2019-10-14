@@ -1,1 +1,1 @@
-html, css, sass, bem, 7-1
+HTML, CSS, Sass, [BEM](http://getbem.com/), [7-1](https://sass-guidelin.es/#the-7-1-pattern).
